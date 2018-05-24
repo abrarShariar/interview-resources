@@ -36,3 +36,5 @@
  -  https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af
  -  https://www.quora.com/What-is-the-best-way-to-get-a-job-internship-in-Silicon-Valley-as-an-undergraduate-student-in-Indonesia
  -  https://www.forbes.com/sites/laurencebradford/2018/01/30/how-to-hunt-for-jobs-in-silicon-valley-in-2018/#11577cc27a5d
+ -  [Top 10 algorithms for interview](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+ -  [Commonly asked data structure interview questions](https://www.geeksforgeeks.org/commonly-asked-data-structure-interview-questions-set-1/)
