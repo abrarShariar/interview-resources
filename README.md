@@ -29,7 +29,7 @@
 
 ## Videos
 
-  - [Jackson Gabbard]https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ
+  - [Jackson Gabbard - All Episodes](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
 
 ## Articles/Blogs:
  
