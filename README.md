@@ -1,6 +1,10 @@
 # interview-resources
 
 
+## Practice
+
+ - [Codality](https://app.codility.com/programmers/lessons/1-iterations/)
+
 ## Mock Interviews
 
  -  https://interviewing.io/ (free)
@@ -25,8 +29,6 @@
   
   - [Into to Architecture and Systems](https://www.youtube.com/watch?v=ZgdS0EUmn70)
 
-
-
 ## Videos
 
   - [Jackson Gabbard - All Episodes](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
@@ -39,3 +41,5 @@
  -  [Top 10 algorithms for interview](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
  -  [Commonly asked data structure interview questions](https://www.geeksforgeeks.org/commonly-asked-data-structure-interview-questions-set-1/)
  - [Uber Engineering Interview](https://eng.uber.com/engineering-interview/)
+ - [Getting into Toptal](https://medium.com/@karolisram/getting-into-toptal-the-entire-process-f3ee4f931949)
+
