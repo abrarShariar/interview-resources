@@ -11,6 +11,12 @@
  -  https://www.pramp.com/#/ (free)
  -  https://careercup.com/interview (paid)
  
+ 
+## Data Structures:
+
+  - [Commonly Asked Data Structure Interview Questions | Set 1](https://www.geeksforgeeks.org/commonly-asked-data-structure-interview-questions-set-1/)
+ 
+ 
 ## Algorithms
   
   - Cracking the coding interview (book)
@@ -42,4 +48,5 @@
  -  [Commonly asked data structure interview questions](https://www.geeksforgeeks.org/commonly-asked-data-structure-interview-questions-set-1/)
  - [Uber Engineering Interview](https://eng.uber.com/engineering-interview/)
  - [Getting into Toptal](https://medium.com/@karolisram/getting-into-toptal-the-entire-process-f3ee4f931949)
+ - [The 30-minute guide to rocking your next coding interview](https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b)
 
