@@ -10,6 +10,7 @@
  -  https://interviewing.io/ (free)
  -  https://www.pramp.com/#/ (free)
  -  https://careercup.com/interview (paid)
+ - [Live Mock Interview - JS](https://www.youtube.com/watch?v=057Rs6CgJnY)
  
  
 ## Data Structures:
