@@ -15,6 +15,7 @@
 ## Data Structures:
 
   - [Commonly Asked Data Structure Interview Questions | Set 1](https://www.geeksforgeeks.org/commonly-asked-data-structure-interview-questions-set-1/)
+  - [Data Structures For Interview](http://www.columbia.edu/~jxz2101/#1)
  
  
 ## Algorithms
