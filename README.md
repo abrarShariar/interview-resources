@@ -4,6 +4,7 @@
 ## Practice
 
  - [Codality](https://app.codility.com/programmers/lessons/1-iterations/)
+ - [HackerEarth](https://www.hackerearth.com/practice/)
 
 ## Mock Interviews
 
