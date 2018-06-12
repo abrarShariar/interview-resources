@@ -19,6 +19,8 @@
   - [Commonly Asked Data Structure Interview Questions | Set 1](https://www.geeksforgeeks.org/commonly-asked-data-structure-interview-questions-set-1/)
   - [Data Structures For Interview](http://www.columbia.edu/~jxz2101/#1)
   - [HashTable With C++](https://www.geeksforgeeks.org/implementing-hash-table-open-addressing-linear-probing-cpp/)
+  - [Interview Questions (CarrerGuru): Array](https://career.guru99.com/top-50-array-interview-questions-answers/)
+  - [Interview Questions (InterviewCake): Array](https://www.interviewcake.com/concept/java/array)
  
  
 ## Algorithms
