@@ -14,7 +14,7 @@
  - [Live Mock Interview - JS](https://www.youtube.com/watch?v=057Rs6CgJnY)
  
  
-## Data Structures:
+## Data Structures and Algorithms:
 
   - [Commonly Asked Data Structure Interview Questions | Set 1](https://www.geeksforgeeks.org/commonly-asked-data-structure-interview-questions-set-1/)
   - [Data Structures For Interview](http://www.columbia.edu/~jxz2101/#1)
@@ -25,10 +25,6 @@
   - [Top Data Structures And Algorithms For Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
   - [Top Data Structures And Algorithms For Interview](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
   - [Important Algo questions - Toptal](https://www.toptal.com/algorithms/interview-questions)
- 
- 
-## Algorithms
-  
   - Cracking the coding interview (book)
   - https://www.byte-by-byte.com/
   - [CS50](https://www.youtube.com/user/cs50tv)
