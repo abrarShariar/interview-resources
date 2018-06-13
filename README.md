@@ -24,6 +24,7 @@
   - [Array Archive - GeeksForGeeks](https://www.geeksforgeeks.org/array-data-structure/)
   - [Top Data Structures And Algorithms For Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
   - [Top Data Structures And Algorithms For Interview](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+  - [Important Algo questions - Toptal](https://www.toptal.com/algorithms/interview-questions)
  
  
 ## Algorithms
