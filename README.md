@@ -31,6 +31,8 @@
   - [Interview Cake](https://www.interviewcake.com/)
   - [HackerRank](https://www.hackerrank.com/)
   - [LeetCode](https://leetcode.com/)
+  - [Intro to Dynamic Programming - HackerEarth](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)
+  - [TopCoder: Dynaminc Programming](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
 
 ## Operating System
   
