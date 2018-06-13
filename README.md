@@ -22,6 +22,8 @@
   - [Interview Questions (CarrerGuru): Array](https://career.guru99.com/top-50-array-interview-questions-answers/)
   - [Interview Questions (InterviewCake): Array](https://www.interviewcake.com/concept/java/array)
   - [Array Archive - GeeksForGeeks](https://www.geeksforgeeks.org/array-data-structure/)
+  - [Top Data Structures And Algorithms For Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
+  - [Top Data Structures And Algorithms For Interview](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
  
  
 ## Algorithms
