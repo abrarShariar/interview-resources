@@ -66,4 +66,5 @@
  - [A perfect guide for cracking a JavaScript interview (A developer’s perspective)](https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d)
  - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
  - [37 essential JavaScript interview questions - Toptal](https://www.toptal.com/javascript/interview-questions) :rocket:
+ - [ES6 interview questions - Medium](https://medium.com/@vigowebs/frequently-asked-es6-interview-questions-and-answers-e3fb7f2dba2)
 
