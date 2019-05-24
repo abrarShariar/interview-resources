@@ -1,4 +1,4 @@
-# interview-resources
+# Interview Resources
 
 
 ## Practice
