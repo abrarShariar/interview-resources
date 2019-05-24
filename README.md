@@ -67,4 +67,4 @@
  - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
  - [37 essential JavaScript interview questions - Toptal](https://www.toptal.com/javascript/interview-questions) :rocket:
  - [ES6 interview questions - Medium](https://medium.com/@vigowebs/frequently-asked-es6-interview-questions-and-answers-e3fb7f2dba2)
- - [Scope in JS](https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope)
+ - [Scope in JS](https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope) :dart:
