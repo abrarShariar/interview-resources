@@ -74,3 +74,8 @@
  
  - [How to succeed in a Frontend Interview - medium](https://blog.pramp.com/how-to-succeed-in-a-frontend-interview-d748cb073823) :rocket:
  - [Frontend Interview Preparation Guide - Github](https://github.com/Jobeir/front-end-interview-preparation-guide)
+
+
+## Udemy
+
+- [Master the coding interview](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms)
