@@ -80,3 +80,7 @@
 ## Udemy
 
 - [Master the coding interview](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms) :rocket:
+
+## Mathematics
+
+- [Mathematics for Computer Science - MITx](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
