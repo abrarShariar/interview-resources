@@ -5,7 +5,7 @@
 
  - [Codality](https://app.codility.com/programmers/lessons/1-iterations/)
  - [HackerEarth](https://www.hackerearth.com/practice/)
- - [LeetCode](https://leetcode.com/)
+ - [LeetCode](https://leetcode.com/) :rocket:
 
 ## Mock Interviews
 
@@ -79,4 +79,4 @@
 
 ## Udemy
 
-- [Master the coding interview](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms)
+- [Master the coding interview](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms) :rocket:
