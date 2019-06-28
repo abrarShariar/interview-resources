@@ -50,7 +50,9 @@
   - [Jackson Gabbard - All Episodes](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
 
 ## Articles/Blogs:
- 
+
+ - [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.com/@zhiachong/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8) 
+ - [Courses to follow](https://docs.google.com/document/d/1PeK69h4H82rwKjhactiE_sAIorCcZgXgXTY7k-nXpnE/edit)
  -  https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af
  -  https://www.quora.com/What-is-the-best-way-to-get-a-job-internship-in-Silicon-Valley-as-an-undergraduate-student-in-Indonesia
  -  https://www.forbes.com/sites/laurencebradford/2018/01/30/how-to-hunt-for-jobs-in-silicon-valley-in-2018/#11577cc27a5d
